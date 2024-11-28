@@ -1,0 +1,32 @@
+{
+    "New York": {
+        "Temperature (\u00b0C)": 32.7,
+        "Humidity (%)": 30,
+        "Wind Speed (km/h)": 5.1,
+        "Condition": "Sunny"
+    },
+    "London": {
+        "Temperature (\u00b0C)": 27.8,
+        "Humidity (%)": 59,
+        "Wind Speed (km/h)": 15.3,
+        "Condition": "Windy"
+    },
+    "Tokyo": {
+        "Temperature (\u00b0C)": 11.3,
+        "Humidity (%)": 65,
+        "Wind Speed (km/h)": 15.5,
+        "Condition": "Snowy"
+    },
+    "Sydney": {
+        "Temperature (\u00b0C)": 28.9,
+        "Humidity (%)": 38,
+        "Wind Speed (km/h)": 0.1,
+        "Condition": "Cloudy"
+    },
+    "Mumbai": {
+        "Temperature (\u00b0C)": 34.3,
+        "Humidity (%)": 82,
+        "Wind Speed (km/h)": 7.4,
+        "Condition": "Cloudy"
+    }
+}
